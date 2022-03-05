@@ -266,6 +266,3 @@ if opcionlower == "fanxmoda":
                                 #Este es el PlaySound
                                 from playsound import playsound
                                 playsound("C:\\Users\\usuario\\Music\\FANXMODA\\100_Millones.mp3")
-
-
-
