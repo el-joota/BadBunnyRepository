@@ -11,7 +11,7 @@ print(" ")
 nombre = input("Introduce tu nombre: ")
 print("Hola " + nombre, "bienvenido al selector de canciones del Bad B, seleccione una opcion.")
 print(" ")
-#Nivel Fan
+#Nivel Dificultad
 print(" -> Las opciones son: \n"
       " \n"
       "     - FANXMODA \n"
